@@ -1,0 +1,15 @@
+[Bb]in/
+obj/
+*.suo
+UpgradeLog*
+*.user
+/Backup/
+/Backup1/
+/packages/
+/PrecompiledWeb/
+/TestResults/
+/Web/Logs
+/Logs
+DesignTimeResolveAssemblyReferencesInput.cache
+*.pubxml
+*.pubxml.user
